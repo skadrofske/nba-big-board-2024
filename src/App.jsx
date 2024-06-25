@@ -5,9 +5,9 @@ import data from './data'
 
 function App() {
 
-  const players = data.map(item => {
+  const players = data.map((item, index) => {
     return (
-      <Player key={item.id} {...item}/>
+      <Player key={item.name} rank={index + 1} {...item}/>
     )
   })
 

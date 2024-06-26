@@ -1,25 +1,14 @@
 export default [
     {
-        name: "Alex Sarr",
-        url: "https://www.basketball-reference.com/international/players/alexandre-sarr-1.html",
-        img:"https://assets-cms.thescore.com/uploads/image/file/624505/w640xh480_GettyImages-1720492821.jpg?ts=1712951379g",
-        position: "Center",
-        age: "18",
-        team: "Perth (NBL)",
-        height: "7-1",
-        weight: "224",
-        content: "dog"
-    },
-    {
-        name: "Dalton Knecht",
-        url: "https://www.sports-reference.com/cbb/players/dalton-knecht-1.html",
-        img: "https://atozsports.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cg_xy_center%2Cq_auto:good%2Cw_1200%2Cx_1438%2Cy_200/MjA0ODUwMjg5NDcwMDg4NTM4/dalton-knecht.png",
+        name: "Reed Sheppard",
+        url: "https://www.sports-reference.com/cbb/players/reed-sheppard-2.html",
+        img: "https://imageio.forbes.com/specials-images/imageserve/66578c24b2d0a9b47f185c5e/SEC-Basketball-Tournament---Quarterfinals/960x0.jpg?format=jpg&width=960",
         position: "Gaurd",
-        age: "23",
-        team: "Tennessee",
-        height: "6-6",
-        weight: "197",
-        content: "dog"
+        age: "20",
+        team: "Kentucky",
+        height: "6-3",
+        weight: "187",
+        content: "Sheppard is statistically one of the best pure shooters college basketball has ever seen. His mechanics are great, he shot about 52% on 4.5 attempts per game, and his 70% true shooting is unreal. He’s a smart player and has proven to be surprisingly effective on the defensive end as well. Although he isn’t the greatest on-ball defender, his 2.5 steals per game are really impressive and he’s been amazing in team defense. Most people are gonna see him as a high floor/low ceiling guy, but in a class with a lot of role players at the top, getting a guy like this is huge. A key thing to know about Sheppard is that his real first name is Isaiah. Isaiah Sheppard would be the clear number one overall pick, and if he was even just a couple inches taller, we'd be talking about this guy as a generational talent."
     },
     {
         name: "Donovan Clingan",
@@ -30,18 +19,62 @@ export default [
         team: "UConn",
         height: "7-2",
         weight: "265",
-        content: "The two biggest things Clingan has going for him are that he’s a great shot blocker and a solid rim runner. Offensively, he doesn’t really have much of a post game, and I actually question his ability to create for himself. However, I think he’s a little underrated as a passer, and he’s easily the best passing big man in this class. One of the things I keep hearing about him is that he has shooting up-side, but I don’t understand this one bit. I guess he had some solid shooting workouts recently, but he shot 58% from the free throw line and only made two threes in his career. Players can always improve their shooting, but that free throw percentage doesn’t give me much hope. Defensively, he’s a good rim protector, has a strong presence down low, and has shown some flashes of being able to guard on the perimeter. Overall I really like Clingan. He’s a high floor/high ceiling type of guy, and that’s why he should be a top five pick."
+        content: "The two biggest things Clingan has going for him are that he’s a great shot blocker and a solid rim runner. Offensively, I’m not super convinced by his post game, and I actually question his ability to create for himself. However, he’s surprisingly underrated as a passer, and he’s easily the best playmaking big in this class. One of the things I keep hearing about him is that he has shooting up-side, but I don’t really understand this. I guess he had some solid shooting workouts recently, but he shot 58% from the free throw line and only made two threes in his career. Players can always improve their shooting, but that free throw percentage doesn’t give me much hope. Defensively, he’s a good rim protector, has a strong presence down low, and has shown some flashes of being able to guard on the perimeter. Overall I really like Clingan. He’s a high floor/high ceiling type of guy, and that’s why he should be a top five pick."
     },
     {
-        name: "Carlton Carrington",
-        url: "https://www.sports-reference.com/cbb/players/carlton-carrington-1.html",
-        img: "https://cdn.vox-cdn.com/thumbor/CLUBei_oqZTwrkr0r5wepo1z1ZM=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/25448574/2095021131.jpg",
-        position: "Gaurd",
+        name: "Alex Sarr",
+        url: "https://www.basketball-reference.com/international/players/alexandre-sarr-1.html",
+        img:"https://assets-cms.thescore.com/uploads/image/file/624505/w640xh480_GettyImages-1720492821.jpg?ts=1712951379g",
+        position: "Center",
         age: "18",
-        team: "Pitt",
-        height: "6-4",
-        weight: "190",
-        content: ""
+        team: "Perth (NBL)",
+        height: "7-1",
+        weight: "224",
+        content: "Sarr’s strengths lie on the defense end. He’s a really strong rim protector, is a solid defender on the perimeter, and is surprisingly versatile in PnR and switch D. However, his post up defense and rebounding ability are a little questionable. He’s got a lot of work to do on the offensive end, but he’s shown flashes and certainly has the tools to be a big time scorer. He’s proven to be a solid passer, but can be liable to turnovers with the ball in his hands on the perimeter. His touch around the rim needs work, and he struggles a bit to finish through contact. His shot mechanics are a little shaky right now, but he’s been working on it and has seen a lot of improvement as of late. His willingness to step out, stretch the floor, and occasionally knock down shots are big reasons why I think he has one of the highest ceilings in this class. It’s likely that he may end up playing at the 4, but I’m really interested to see how he’ll fit on an NBA roster."
+    },
+    {
+        name: "Dalton Knecht",
+        url: "https://www.sports-reference.com/cbb/players/dalton-knecht-1.html",
+        img: "https://atozsports.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cg_xy_center%2Cq_auto:good%2Cw_1200%2Cx_1438%2Cy_200/MjA0ODUwMjg5NDcwMDg4NTM4/dalton-knecht.png",
+        position: "Gaurd",
+        age: "23",
+        team: "Tennessee",
+        height: "6-6",
+        weight: "197",
+        content: "Being a 23 year old 5th year senior will turn some teams off, but if you can ball, you can ball. Knecht is the most prolific scorer in college basketball, and he’s one of the only guys in this draft that is already developed at all three levels. He’s got unlimited range, a solid mid range jumper, and he’s pretty aggressive when attacking the rim. He shot about 40% on 6 attempts per game from behind the arc, and a little over 77% from the line. He’s a great shooter and he’s got that dawg in him. That being said, he doesn’t really do anything else all that well. His assist, block, and steal rates are all terrible, and his defense is a massive concern. In fact, his stats deem him almost unplayable on that end. I’m nervous he could be the next Doug McDermott, but he’s proven to be a hard worker, and he has the size and athleticism to be a serviceable defender."
+    },
+    {
+        name: "Stephon Castle",
+        url: "https://www.sports-reference.com/cbb/players/stephon-castle-2.html",
+        img: "https://www.sandiegouniontribune.com/wp-content/uploads/migration/2024/04/07/0000018e-baa4-d8f6-a7de-bfe646e40001.jpg?w=535",
+        position: "Gaurd",
+        age: "19",
+        team: "UConn",
+        height: "6-6",
+        weight: "215",
+        content: "Castle really thrives as a defensive off ball guard. He’s good at the point of attack and in the help side as well. It’s been reported he wants to be at the 1 in the NBA, but I’m not sure that’s best for his game, especially early on. He works well off the ball cutting and finishing at the rim, and the biggest knock on Castle is his shooting. He isn’t very confident from deep, and the numbers reflect that. Because he doesn’t put pressure on the defense from the perimeter, it really limits his ability to drive and self create. Improving his shot could really open up his game and would make him an incredible all around player, but that’ll take some time."
+    },
+    {
+        name: "Rob Dillingham",
+        url: "https://www.sports-reference.com/cbb/players/rob-dillingham-1.html",
+        img: "https://hips.hearstapps.com/hmg-prod/images/rob-dillingham-of-the-kentucky-wildcats-against-the-texas-a-news-photo-1711382509.jpg?crop=0.65527xw:1xh;center,top&resize=1200:*",
+        position: "Gaurd",
+        age: "19",
+        team: "Kentucky",
+        height: "6-2",
+        weight: "170",
+        content: "One of the best shooters and self-creators in this class. He shot over 44% on 144 attempts from three and nearly 80% from the line. Although he’s great as a pull-up shooter, his shot selection and footwork can be really poor at times. He finishes fairly well at the rim and has a nice package (pause), but being 6’2” and 170 lb will certainly limit his potential in the paint and around the basket. Rob’s a solid facilitator though, and his assist to turnover ratio is quite promising. However, his defense isn’t great, and he’ll need his shooting and playmaking to translate for him to establish himself in the league."
+    },
+    {
+        name: "Devin Carter",
+        url: "https://www.sports-reference.com/cbb/players/devin-carter-3.html",
+        img: "https://images2.minutemediacdn.com/image/upload/c_crop,w_2719,h_1529,x_0,y_381/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si-temp/01htjtxtp5ap49xwj0pz.jpg",
+        position: "Gaurd",
+        age: "22",
+        team: "Providence",
+        height: "6-3",
+        weight: "188",
+        content: "Carter is the best defensive guard in the class. His on-ball defense is sticky and can be incredibly frustrating for opposing guards to go against. He’s solid off the ball as well and has proven to have a high IQ on that end of the floor. He has the ability to drive to the basket, and can be a creative finisher at times, but his height has really limited his potential as a scorer at the rim. The shooting has gotten infinitely better over the last couple years, and he was able to shoot nearly 38% on 6.8 attempts per game from three this past season. His form’s a little funky, and his numbers weren’t that great before last year, but the most recent metrics are hard to dismiss. While his defense is great, the most impressive thing about his game might be his rebounding, which stats-wise, is elite. I see him as a key piece of a future championship team, and that first ten minutes of Providence’s home game against UConn this past year is burned into my brain."
     },
     {
         name: "Ron Holland",
@@ -52,7 +85,18 @@ export default [
         team: "G-League Ignite",
         height: "6-8",
         weight: "200",
-        content: "Holland is a high motor, athletic wing, that can’t shoot, and is questionable on the defensive end. He doesn’t excite me as a top pick. His poor decision making (he turns it over a lot) and lack of playmaking ability is really concerning. He tries to make up for it with hustle plays, chase down blocks, and athletic finishes in transition, but it isn’t enough for me to have confidence in him as a prospect. He could really thrive as a slasher and role player for a team that already has established playmakers, but he’ll never be a go-to guy. "
+        content: "Holland is a high motor, athletic wing, that can’t shoot, and is decent on the defensive end. My opinion on him has shifted a bit over time. I was, and still am, really concerned by his poor decision making and lack of shooting ability. However, he makes up for it with hustle plays, chase down blocks, and strong finishes at the rim. When you watch Ignite’s games, the impact he has on the floor is really clear and he has the ability at times to take over games. He’s an aggressive player that’s looking to score and make plays all over the court. The shooting needs to improve, and he has to limit the turnovers, but I have confidence that he can have an immense impact as a role player, which is what you’re looking for in this draft."
+    },
+    {
+        name: "Jared McCain",
+        url: "https://www.sports-reference.com/cbb/players/jared-mccain-2.html",
+        img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmZs5IH7inaDJya56zgUJay39_WegzmuamTLfVwj1baguxD_w9",
+        position: "Gaurd",
+        age: "20",
+        team: "Duke",
+        height: "6-3",
+        weight: "197",
+        content: "McCain is a machine from downtown. His mechanics are perfect and are reflected nicely by his 41% on 5.8 attempts per game from three and 88.5% from the line. Many of his shots come in off-ball situations, but he’s been quite good as a self-creator too. He gets to the basket surprisingly well, is a creative finisher, and has shot well off the dibble. Given his size, he isn’t really anything special on defense, but he’s a good team player and has proven to at least be competent on that end of the floor. He’s going to work really well as a two guard next to an established playmaker, and I just love his all around game. I’m a little higher on him than the consensus, and it would surprise m very much if he doesn’t find his way in the league."
     },
     {
         name: "Zaccharie Risacher",
@@ -63,51 +107,73 @@ export default [
         team: "JL Bourg (LNB Pro A)",
         height: "6-9",
         weight: "202",
-        content: "could be a dog"
+        content: "Risacher is a 3 and D wing/forward that happens to have one of the better names in this class (you have to say it with a French accent). He’s proven to be a bit of a streaky shooter at times, but his shot is silky and he’s not afraid to pull the trigger. He thrives off the ball and in catch and shoot situations, but it’s questionable whether he can really do anything else on the offensive end, especially if the shot’s not falling. That being said, he’s become more aggressive as of late and has improved his finishing at the rim. Risacher has a lot of up-side on the defensive end as well. He’s sticky on the perimeter, can stay with smaller guards, and his 6’10” wingspan makes him a solid shot blocking threat. While I wouldn’t say he’s elite quite yet, his size and IQ show he should be a reliable defender in the league."
     },
     {
-        name: "Reed Sheppard",
-        url: "",
-        img: "https://imageio.forbes.com/specials-images/imageserve/66578c24b2d0a9b47f185c5e/SEC-Basketball-Tournament---Quarterfinals/960x0.jpg?format=jpg&width=960",
-        position: "",
-        age: "",
-        team: "",
-        height: "",
-        weight: "",
-        content: ""
+        name: "Johnny Furphy",
+        url: "https://www.sports-reference.com/cbb/players/johnny-furphy-1.html",
+        img: "https://www.ksn.com/wp-content/uploads/sites/13/2024/04/AP24082639272896.jpg?w=1280",
+        position: "Wing",
+        age: "19",
+        team: "Kansas",
+        height: "6-9",
+        weight: "202",
+        content: "Furphy is a decent off-ball shooter and a really strong finisher in transition. His 35% from three this past year came on a lot of really easy catch and shoot looks, but we haven’t seen much movement or off the dribble shooting from him. He was a solid cutter as well, and his finishing stats were quite good. He’s also highly active on the boards, and solid rebounding numbers reflect that. Furphy’s defense has been just okay so far, but he plays with toughness and is very active on that end of the floor. He played a really limited role at Kansas, and it’s a little unclear if he can expand his game at the next level. He’ll need to do more in the half court and he’ll have to improve defensively, but his game can translate and he can find a role as an eventual starter."
     },
     {
-        name: "Name",
-        url: "",
-        img: "",
-        position: "",
-        age: "",
-        team: "",
-        height: "",
-        weight: "",
-        content: ""
+        name: "Nikola Topic",
+        url: "https://www.basketball-reference.com/international/players/nikola-topic-1.html",
+        img: "https://ftw.usatoday.com/wp-content/uploads/sites/90/2024/02/1895743743-e1719338719268.jpg?w=1000&h=600&crop=1",
+        position: "Gaurd",
+        age: "18",
+        team: "Crvena zvezda (ABA)",
+        height: "6-6",
+        weight: "201",
+        content: "Great facilitator, passer, and playmaker. He drives to the hoop well and is a good finisher at the rim. However, the three point shot isn’t there, and I don’t think he’s anything special on defense. The ACL tear he suffered a couple months ago doesn’t really affect my outlook on him. He has the chance to be a starting PG if the shooting gets better, but I don’t think he has all-star potential."
     },
     {
-        name: "Name",
-        url: "",
-        img: "",
-        position: "",
-        age: "",
-        team: "",
-        height: "",
-        weight: "",
-        content: ""
+        name: "Tidjane Salaun",
+        url: "https://www.basketball-reference.com/international/players/tidjane-salaun-1.html",
+        img: "https://www.si.com/.image/t_share/MjAxMTc3NzUwNDQ1MjM3Nzgy/asdaf.jpg",
+        position: "Forward",
+        age: "18",
+        team: "Cholet (LNB Pro A)",
+        height: "6-9",
+        weight: "218",
+        content: "Tidjane Salaun has one of the best names in this draft, but he’s also one of the rawest prospects and is basically just all tools right now. He’s shooting about 32% on 140 attempts from beyond the arc. That’s fairly promising for a guy his size and with his athletic ability. He’s proven to be a solid cutter, and although his finishing at the rim is not good right now, the 40+ dunks he threw down in 33 games this past year is an interesting number. He also has some real up-side as a defender given his 7’2” wingspan. Here’s the problem… he has absolutely no idea what he’s doing on either end of the floor. He consistently looks lost, moves without any real purpose, and is out of position on defense. He’s a real project, but if a team is willing to put in the time and is able to focus on coaching him up, he could be a star. I love him as a raw talent, but is he a good basketball player? I’m not sure."
     },
     {
-        name: "Name",
-        url: "",
-        img: "",
-        position: "",
-        age: "",
-        team: "",
-        height: "",
-        weight: "",
-        content: ""
+        name: "Ja'Kobe Walter",
+        url: "https://www.sports-reference.com/cbb/players/jakobe-walter-2.html",
+        img: "https://miro.medium.com/v2/resize:fit:1400/0*2MqaWG6MPR7Gc70W.jpeg",
+        position: "Gaurd",
+        age: "19",
+        team: "Baylor",
+        height: "6-5",
+        weight: "195",
+        content: "I see Walter as a bit of a middling prospect, but there’s some data to suggest he might pan out as a NBA player. His three point shooting is a bit of a make-or-break skill, and although he shot only 34% from that distance, that percentage is on 220 attempts. That’s an incredibly high volume and has projected well for players in the past, plus he shot around 79% from the free throw line. The problem is, I’m not sure what else he does well. His handle is mediocre, he doesn’t get to the basket a lot, and his defense was kinda weak last year. A lesser offensive load in the league could really open up his potential, and I think he’s got a chance to be a solid role player if he can get the shooting percentage up."
+    },
+    {
+        name: "Zach Edey",
+        url: "https://www.sports-reference.com/cbb/players/zach-edey-1.html",
+        img: "https://thespun.com/.image/t_share/MjA1NDM1ODEwMDEzNTIxNDA2/zach-edey-of-purdue-boilermakers-in-action-against-the.jpg",
+        position: "Center",
+        age: "22",
+        team: "Purdue",
+        height: "7-4",
+        weight: "300",
+        content: "I can’t wait to see Edey in an NBA scheme where he’ll be given opportunities outside the paint and will actually be allowed to play defense. 7’4”, 300 lb players don’t come around very often, and teams should be willing to take a swing on him. I expect him to end up as a high-end backup, but the reality is, that’s a better career than ~80% of the players in this draft will have."
+    },
+    {
+        name: "Carlton \"Bub\" Carrington",
+        url: "https://www.sports-reference.com/cbb/players/carlton-carrington-1.html",
+        img: "https://cdn.vox-cdn.com/thumbor/CLUBei_oqZTwrkr0r5wepo1z1ZM=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/25448574/2095021131.jpg",
+        position: "Gaurd",
+        age: "18",
+        team: "Pitt",
+        height: "6-4",
+        weight: "190",
+        content: "This guy can fill it up. His shot, although a little slow, has a high release point and is the silkiest strokes I’ve seen in a while. He’s great off the dribble, can catch and shoot from anywhere, and has easily the best mid-range game in this class. His pull-up and mid-range shooting numbers are ridiculous. His inability to drive to the hoop effectively does really concern me though, as it leads to him settling for a lot of tough mid-range turnarounds rather than easy finishes at the rim. He also isn’t anything special on defense, but he’s proven to be serviceable, and I think his offensive game will be more than enough to get him significant minutes."
     },
     {
         name: "Matas Buzelis",
@@ -118,6 +184,260 @@ export default [
         team: "G-League Ignite",
         height: "6-10",
         weight: "209",
-        content: "could be a dog"
+        content: "I see the vision with Buzelis, which is why I still have him here, but I think he’s probably the most overrated prospect in this draft. He’s been billed as a good shooter and a solid ball-handler for his size, but I don’t really think he’s either. He was a solid three point shooter his senior year of high school, but that has not translated at all to the G-League. This past year he shot 27% from three and 68% from the free throw line. A lot of excuses have been made for him, and the volume was quite low, but those numbers are really concerning. His handling, decision-making, and overall playmaking are also all questionable. He’s shown a lot of flashes in those areas, but he is not consistent at all and ends up committing a lot of bad turnovers. Joey Hauser low-key clamped him. Buzelis needs to work a lot on his on-ball defense, but he has a lot of potential as a rim-protector and help-side defender. The ceiling is high for Buzelis, especially if he can get his shot figured out, but I’m afraid the floor is way too low for him to be a top five pick like some have projected. I’m so confident he’ll be a bust or low-end role player that he’ll probably end up being one of the few all-stars from this class."
     },
+    {
+        name: "Cody Williams",
+        url: "https://www.sports-reference.com/cbb/players/cody-williams-2.html",
+        img: "https://lastwordonsports.com/basketball/wp-content/uploads/sites/9/2024/04/USATSI_22854557_168402037_lowres.jpg",
+        position: "Forward",
+        age: "19",
+        team: "Colorado",
+        height: "6-8",
+        weight: "190",
+        content: "At the end of this past college basketball season I thought Cody Williams would benefit from another year of college. He didn’t get a chance to show a lot this past season at Colorado, and that led to some extremely low volume numbers in every category. For example, he shot 41.5% from three, but that was only on 41 total attempts. He’s been a solid cutter and off-ball player, but just hasn’t had many opportunities to show off his self-creation. His touch around the basket is quite good, and he’s able to hit a lot of tough floaters and hook shots, but he has to take those tough shots because he doesn’t get to the rim very well. He isn’t a great passer or playmaker, and his assist to turnover ratio was terrible. Of course has potential as a defender, but he’s statistically very poor on that end of the floor and will need a lot of coaching there. The ceiling is high, and like many of the prospects here I’m banking entirely on his potential by placing him here."
+    },
+    {
+        name: "Baylor Scheierman",
+        url: "https://www.sports-reference.com/cbb/players/baylor-scheierman-1.html",
+        img: "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQAlmh-YNK49cbBgfhFJGkJ2g7W8XQUTtxUEL7qM_TjWUK7kJr-l2123Y5LsLlF6Jr3wXuBBVHEjy5ZutM",
+        position: "Wing",
+        age: "23",
+        team: "Creighton",
+        height: "6-6",
+        weight: "180",
+        content: "Baylor Schierman is a tough shot maker. He’s got good size, he can create for himself, and isn’t bad on defense. I loved his game in college, and if he ends up in the right situation, I can guarantee he’ll find a role in the league."
+    },
+    {
+        name: "Kyle Filipowski",
+        url: "https://www.sports-reference.com/cbb/players/kyle-filipowski-1.html",
+        img: "https://www.si.com/.image/t_share/MjAyODkyODU4NjYxODA3MTcy/usatsi_22092113.jpg",
+        position: "Center",
+        age: "20",
+        team: "",
+        height: "7-0",
+        weight: "230",
+        content: "I never saw Filipowski as a lottery pick, but the amount he’s fallen on draft boards since the start of the season is still a little surprising to me. I called this guy bum back in November, but he’s honestly a solid player and is quite fluid for his size."
+    },
+    {
+        name: "Yves Missi",
+        url: "https://www.sports-reference.com/cbb/players/yves-missi-2.html",
+        img: "https://lastwordonsports.com/basketball/wp-content/uploads/sites/9/2024/06/USATSI_22494814_168401936_lowres.jpg",
+        position: "Center",
+        age: "20",
+        team: "Baylor",
+        height: "7-0",
+        weight: "235",
+        content: "Definition of Nimble Big Man."
+    },
+    {
+        name: "Tyler Smith",
+        url: "https://www.basketball-reference.com/gleague/players/s/smithty02d.html",
+        img: "https://cdn-gleague.nba.com/sites/2/2024/06/Tyler-2000x1333-1-scaled.jpg?im=Resize=(900,506)",
+        position: "Forward",
+        age: "19",
+        team: "G-League Ignite",
+        height: "6-11",
+        weight: "224",
+        content: "Tyler Smith is a modern stretch big that has performed well in catch and shoot pick and pop situations. He played at the five a lot this past year, but I could see him getting some time at the four as well, and potentially making a full transition there in the future. His three point percentage is solid, he has a decent mid-range game, and he’s been very effective at stretching the defense. However, he doesn’t have much of a post game, he isn’t a great rebounder, and defense is a long ways away. I expect Smith to see some more time in the G-League before he’s a regular NBA player, but he is a simple player and I like the idea of his game."
+    },
+    {
+        name: "Tristan Da Silva",
+        url: "https://www.sports-reference.com/cbb/players/tristan-dasilva-1.html",
+        img: "https://s.yimg.com/ny/api/res/1.2/2i7DVTzVKWng2FdRJ36b1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/buffaloes_wire_usa_today_articles_968/9673fe16b513604b2e3b4d7828659a35",
+        position: "Wing/Forward",
+        age: "23",
+        team: "Colorado",
+        height: "6-8",
+        weight: "200",
+        content: "Da Silva took over in Colorado’s tournament games, and he’s a big reason why they were able to get a couple wins. I tuned into several Colorado games to watch Cody Williams, but instead I saw a whole lot of Tristan Da Silva. He’s a smart player, he can shoot, he’s pretty athletic, and isn’t bad defensively. It would surprise me if he doesn’t find some sort of role in the NBA, but his ceiling isn’t very high as his rebound and block numbers are poor."
+    },
+    {
+        name: "Kyshawn George",
+        url: "https://www.sports-reference.com/cbb/players/kyshawn-george-1.html",
+        img: "https://cdn.vox-cdn.com/thumbor/GTht_XIS-VXc9YrtusEmjQJy7kQ=/0x0:6799x4503/1200x800/filters:focal(2710x938:3796x2024)/cdn.vox-cdn.com/uploads/chorus_image/image/73344515/2148466167.0.jpg",
+        position: "Gaurd",
+        age: "20",
+        team: "Miami",
+        height: "6-8",
+        weight: "205",
+        content: "Kyshawn George is a big guard whose best attribute is his three point shooting. He shot over 40% on 4.2 attempts from behind the long line and about 78% from the stripe. You gotta like those numbers, but I really question what else he does well. He doesn’t get to the basket nearly enough, and his finishing is a little lackluster. He doesn’t have the ability to get downhill, which results in him also not being able to get to the line. His handle is just okay, and while he's shown some flashes as a passer, I don’t see him as a primary playmaker, and he will work much better off the ball. Defensively though, he’s actually pretty good. He’s solid on the ball, is disruptive, and is actually able to use his size to his advantage against opposing guards."
+    },
+    {
+        name: "Isaiah Collier",
+        url: "https://www.sports-reference.com/cbb/players/isaiah-collier-2.html",
+        img: "https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/usctrojans.com/images/2023/11/20/Collier_drivingLee.jpeg",
+        position: "Gaurd",
+        age: "19",
+        team: "USC",
+        height: "6-5",
+        weight: "210",
+        content: "Collier was the top overall high school recruit in 2023, but I wasn’t very high on him then, and I’m still not super high on him now. He makes a lot of fantastic passes, but he’s also extremely turnover prone and can get a little out of control at times. His shooting and finishing also weren’t anything special, even if he showed some flashes at both. He also struggled a lot defensively this past year, I’m not confident it will get much better. It’s certainly possible that if the shooting gets better and can limit the turnovers that he can be a starting point guard in the league, but I’m not confident that will happen."
+    },
+    {
+        name: "Ryan Dunn",
+        url: "https://www.sports-reference.com/cbb/players/ryan-dunn-1.html",
+        img: "https://cdn.vox-cdn.com/thumbor/ffiT4DMkExXo9hNwXL1TTlNQ1-w=/0x0:4464x2975/1200x800/filters:focal(1917x391:2631x1105)/cdn.vox-cdn.com/uploads/chorus_image/image/72958441/1811606290.0.jpg",
+        position: "Wing/Forward",
+        age: "21",
+        team: "Virginia",
+        height: "6-8",
+        weight: "208",
+        content: "Dunn is highly regarded as the best defender in this class, but he doesn’t really bring much on the offensive end. His defense is great, but we’ve seen several players as of late that are really strong defensively get pushed out of rotations due to a complete lack of offense. 20% on 35 attempts from three and 53% from the line is just abysmal, especially for a 6’8” wing. It wouldn’t surprise me if he gets decent minutes and is given a chance early in his career, but he has to improve offensively to be able to stick in the league."
+    },
+    {
+        name: "DaRon Holmes",
+        url: "https://www.sports-reference.com/cbb/players/daron-holmesii-1.html",
+        img: "https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/udayton.sidearmsports.com/images/2024/2/1/Holmes_GW_1.JPG",
+        position: "Forward",
+        age: "21",
+        team: "Dayton",
+        height: "6-10",
+        weight: "220",
+        content: "Holmes is fluid in the pick and roll, he’s comfortable as a passer, and he’s drastically improved as a shooter in the past few years. He’s shown some flashes as a ball-handler, and he’s proven to have a good feel for the game. He had to carry a lot of the offensive load during his time at Dayton, and I think his efficiency could improve with less pressure on that end of the floor. I’m not super confident that his game will translate, but it’s likely he gets drafted to a good team that will allow him to be a role player and utilize his strengths."
+    },
+    {
+        name: "Kel’el Ware",
+        url: "https://www.sports-reference.com/cbb/players/kelel-ware-1.html",
+        img: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQsolQ_dKpp7huiGjBrdavUiIgACJ4ca9G-GTqOHxwcl-dRNNWEC3YnkKc9GNXk_V0qvBNAliPopcTttyw",
+        position: "Forward/Center",
+        age: "20",
+        team: "Indiana",
+        height: "7-0",
+        weight: "210",
+        content: "Ware is such an interesting prospect. He has a lot of the tools teams are looking for in a modern big, and he’s extremely physically and athletically gifted. The question is if he can actually put it together at the next level."
+    },
+    {
+        name: "PJ Hall",
+        url: "https://www.sports-reference.com/cbb/players/pj-hall-1.html",
+        img: "https://www.foxcarolina.com/resizer/9oOZUZa88JzCl8usr1XD5uwoWpY=/arc-photo-gray/arc3-prod/public/6EYDIG2FLFHSXL6UH6GNHDPNCE.jpg",
+        position: "Forward",
+        age: "22",
+        team: "Clemson",
+        height: "6-10",
+        weight: "235",
+        content: "I think PJ Hall is one of the more underrated prospects this year. He’s a stretch 4/5 that put up some fantastic numbers in his Junior and Senior years of college. He shot about 35% on 3.5 attempts per game from beyond the arc in those two years, and was a career 78% free throw shooter. Those numbers are great for his size and position, and I think there’s a chance he transitions to the 4 full time given how fluid he is on both ends of the floor. I absolutely love him as a second round pick that has an opportunity to see the floor fairly early in his NBA career."
+    },
+    {
+        name: "Terrance Shannon",
+        url: "https://www.sports-reference.com/cbb/players/terrance-shannon-1.html",
+        img: "https://cst.brightspotcdn.com/dims4/default/6053cc4/2147483647/strip/true/crop/4451x2967+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Ft0nk_dJ-0Vv8JPIa1hhfA6NknMc%3D%2F0x0%3A4451x2968%2F4451x2968%2Ffilters%3Afocal%282319x722%3A2320x723%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F25247362%2F1959092474.jpg",
+        position: "Gaurd",
+        age: "23",
+        team: "Illinois",
+        height: "6-8",
+        weight: "240",
+        content: "TSJ beat the case and he was one of the more prolific scorers this past year in college basketball. He could end up being a solid backup in the league."
+    },
+    {
+        name: "Jaylon Tyson",
+        url: "https://www.sports-reference.com/cbb/players/jaylon-tyson-1.html",
+        img: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EFNSRQDZ7RP3LNQOGEWBGGAPEM.jpg",
+        position: "Gaurd",
+        age: "21",
+        team: "Cal",
+        height: "6-7",
+        weight: "210",
+        content: "Tyson could be one of the steals from this draft. He doesn’t really pop as a prospect, but he’s extremely well rounded and could be a nice piece for any NBA roster."
+    },
+    {
+        name: "Tyler Kolek",
+        url: "https://www.sports-reference.com/cbb/players/tyler-kolek-1.html",
+        img: "https://marquettewire.org/wp-content/uploads/2022/12/AD-MBB_vs-Wisconsin-web-18-900x599.jpg",
+        position: "Gaurd",
+        age: "23",
+        team: "Marquette",
+        height: "6-3",
+        weight: "182",
+        content: "This dude got put in jail by Tyson Walker. He’s a good player though."
+    },
+    {
+        name: "Cam Christie",
+        url: "https://www.sports-reference.com/cbb/players/cam-christie-1.html",
+        img: "https://www.twincities.com/wp-content/uploads/2023/11/Christie-Cam-39295.jpg?w=525",
+        position: "Wing",
+        age: "18",
+        team: "Minnesota",
+        height: "6-6",
+        weight: "190",
+        content: "Cam tore it up in Mackey last year, and although I thought he should’ve come back for a second year, I love his ability as a defender and shooter. He’ll need to limit the bad shots and work more at getting to the basket, but I’m high on him as a 3&D wing."
+    },
+    {
+        name: "Cam Spencer",
+        url: "https://www.sports-reference.com/cbb/players/cam-spencer-1.html",
+        img: "https://cdn.vox-cdn.com/thumbor/J5gc0kZ_TqhvwBRZYdqKPR07rvY=/0x0:3000x2000/1200x800/filters:focal(1110x103:1590x583)/cdn.vox-cdn.com/uploads/chorus_image/image/73174018/2024_2_17MarquetteGoldenEaglesUConnHuskiesMBB023.0.jpeg",
+        position: "Gaurd",
+        age: "24",
+        team: "UConn",
+        height: "6-4",
+        weight: "205",
+        content: "It seems likely to me that UConn’s system really elevated his game, but the dude can make shots and that can’t be ignored."
+    },
+    {
+        name: "Justin Edwards",
+        url: "https://www.sports-reference.com/cbb/players/justin-edwards-4.html",
+        img: "https://www.si.com/.image/t_share/MjA0NTgzMTM0NzE5NjQ5NzIx/usatsi_22608398.jpg",
+        position: "Gaurd/Wing",
+        age: "20",
+        team: "Kentucky",
+        height: "6-8",
+        weight: "203",
+        content: "Underperformed this past year at Kentucky, but I like some of his offensive game."
+    },
+    {
+        name: "Pacome Dadiet",
+        url: "https://www.basketball-reference.com/international/players/pacome-dadiet-1.html",
+        img: "https://www.nbadraft.net/wp-content/uploads/2024/05/pdadier01.jpg",
+        position: "Wing",
+        age: "18",
+        team: "Ratiopharm Ulm (Bundesliga)",
+        height: "6-8",
+        weight: "187",
+        content: "Dadiet is another extremely raw prospect, and I don’t think he’s quite  ready for the NBA yet. His three point shooting hasn’t been great, but his mechanics are pretty good and I could see him becoming reliable from distance. There have been flashes elsewhere on the floor too, especially with his self creation and off the dribble scoring. I think he’ll get some time in the G-League to develop before he sees real minutes in the NBA."
+    },
+    {
+        name: "Antonio Reeves",
+        url: "https://www.sports-reference.com/cbb/players/antonio-reeves-1.html",
+        img: "https://www.si.com/.image/t_share/MjAzMzAwMTA2MTE4NjM2NzI2/usatsi_22191863.jpg",
+        position: "Gaurd",
+        age: "23",
+        team: "Kentucky",
+        height: "6-4",
+        weight: "185",
+        content: "Reeves was the only reason Kentucky’s tournament game against Oakland was even close. Although his shot mechanics aren’t great, his three point shooting numbers are solid, and it wouldn’t surprise me if he carves out a role as a backup."
+    },
+    {
+        name: "Harrison Ingram",
+        url: "https://www.sports-reference.com/cbb/players/harrison-ingram-1.html",
+        img: "https://lastwordonsports.com/basketball/wp-content/uploads/sites/9/2024/04/USATSI_22892618_168404824_lowres-scaled.jpg",
+        position: "Wing/Forward",
+        age: "21",
+        team: "UNC",
+        height: "6-8",
+        weight: "230",
+        content: "Ingram does a lot of things well, but it’s a little tough to see what his role will look like in the NBA. If he’s able to translate his shooting percentage from this past year, I like him as one of the better sleepers in this class."
+    },
+    {
+        name: "Jonathan Mogbo",
+        url: "https://www.sports-reference.com/cbb/players/jonathan-mogbo-1.html",
+        img: "https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/usfca.sidearmsports.com/images/2023/11/11/MogboLooking.jpg",
+        position: "Forward",
+        age: "22",
+        team: "San Francisco",
+        height: "6-8",
+        weight: "225",
+        content: "The Isaiah Stewart comparison is obvious. This guy’s just a basketball player. He’ll need to work a lot on his shot since he’s only 6’8” and didn’t make a single three in college. However, I kinda like his game."
+    },
+    {
+        name: "Bobi Klintman",
+        url: "https://www.basketball-reference.com/international/players/bobi-klintman-1.html",
+        img: "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2023-10/nba-plain--79c5949c-0a39-4fdf-9c4c-8807cec796d6.jpeg?itok=FIptc0U6",
+        position: "Forward",
+        age: "21",
+        team: "Cairns Taipans (NBL)",
+        height: "6-9",
+        weight: "212",
+        content: "Klintman is 21 years old, and yet he’s still a little raw as a prospect. He’s a capable shooter and is fantastic off the ball as a cutter. I find it extremely unlikely that he’ll ever be a go-to player, but there’s certainly a path for him to become a solid rotational piece."
+    },
+    
 ]
